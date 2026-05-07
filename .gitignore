@@ -1,0 +1,23 @@
+# 1. Python 캐시 및 컴파일된 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 2. 가상환경 (Virtual Environment)
+venv/
+.venv/
+env/
+.env/
+
+# 3. 에디터 및 IDE 설정 파일
+.vscode/
+.idea/
+
+# 4. 보안/비밀 정보 (★가장 중요)
+.env
+*.pem
+secrets.json
+
+# 5. OS (운영체제) 생성 파일
+.DS_Store
+Thumbs.db
