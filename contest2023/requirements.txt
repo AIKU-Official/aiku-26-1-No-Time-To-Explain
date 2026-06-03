@@ -1,0 +1,24 @@
+# 핵심 라이브러리
+finrl @ git+https://github.com/AI4Finance-Foundation/FinRL.git
+ElegantRL @ git+https://github.com/AI4Finance-Foundation/ElegantRL.git
+stable_baselines3==2.8.0a2
+gymnasium==1.2.3
+
+# 데이터 및 수치 계산
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.7.2
+scipy==1.15.3
+stockstats==0.5.4
+yfinance==0.2.58
+
+# 딥러닝 인프라
+torch==2.10.0
+tensorboard==2.20.0
+
+# 기타 도구
+matplotlib==3.10.8
+ccxt==3.1.60
+python-dotenv==1.2.1
+tqdm==4.67.3
+openai==2.30.0

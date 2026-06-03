@@ -21,3 +21,5 @@ secrets.json
 # 5. OS (운영체제) 생성 파일
 .DS_Store
 Thumbs.db
+*.csv
+*.pptx

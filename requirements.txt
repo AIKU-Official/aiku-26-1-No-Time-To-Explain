@@ -1,0 +1,17 @@
+# Core
+pandas
+numpy
+matplotlib
+python-dotenv
+stockstats
+tqdm        # 진행바
+
+# Data source (1-minute bars)
+alpaca-py
+
+# RL / backtest (contest-fixed model)
+# pip install swig
+# pip install box2d
+# pip install git+https://github.com/AI4Finance-Foundation/FinRL.git
+finrl
+stable-baselines3

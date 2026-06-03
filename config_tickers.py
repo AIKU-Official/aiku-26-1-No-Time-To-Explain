@@ -1,8 +1,0 @@
-from __future__ import annotations
-
-# Dow-30 Chart 2026-02-26(y-m-d)
-DJIA30_TICKER = [
-    "AAPL", "AMGN", "AMZN", "AXP", "BA", "CAT", "CRM", "CSCO", "CVX", "DIS", "GS",
-    "HD", "HON", "IBM", "JNJ", "JPM", "KO", "MCD", "MMM", "MRK", "MSFT",
-    "NKE", "NVDA", "PG", "SHW", "TRV", "UNH", "V", "VZ", "WMT"
-]
