@@ -23,3 +23,9 @@ secrets.json
 Thumbs.db
 *.csv
 *.pptx
+*.pdf
+README_양식.md
+CLAUDE.md
+
+experiments/
+make_pptx.py
